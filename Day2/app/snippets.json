@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "title": "A Quiet Night in Night City",
+        "content": "Spent the evening wandering through the city lights, trying to ignore the rumors about rogue AIs slipping through the Blackwall. Probably nothing to worry about... right?"
+    },
+    {
+        "id": 2,
+        "title": "Toss a Coin",
+        "content": "Met a strange traveler at a local tavern today. White hair, yellow eyes, carried two swords. He barely spoke, but someone in the corner kept humming a familiar tune."
+    },
+    {
+        "id": 3,
+        "title": "You Died",
+        "content": "Today was rough. Missed my deadline, spilled coffee on my keyboard, and somehow locked myself out of my apartment. Felt like a Dark Souls loading screen was about to appear."
+    },
+    {
+        "id": 4,
+        "title": "The Cake Was Definitely Not There",
+        "content": "My coworker promised there would be free cake in the break room. Turns out it was just leftover salad. I should have known better."
+    },
+    {
+        "id": 5,
+        "title": "Arrow to the Knee",
+        "content": "Went for a run this morning and immediately pulled a muscle. Guess this is how adventuring careers really end."
+    },
+    {
+        "id": 6,
+        "title": "One Last Save Point",
+        "content": "Stayed up way too late replaying an old game for nostalgia. Told myself 'just one more mission'... suddenly it was 4 AM."
+    },
+    {
+        "id": 7,
+        "title": "The Floor is Lava",
+        "content": "Had a moment of panic when I thought I spilled hot coffee on the floor. Turns out it was just a shadow. My heart is still racing."
+    },
+    {
+        "id": 8,
+        "title": "I Used to Be an Adventurer Like You",
+        "content": "Tried to fix my bike today and ended up making it worse. Now it won't even roll. Maybe I should stick to being a pedestrian."
+    },
+    {
+        "id": 9,
+        "title": "Press F to Pay Respects",
+        "content": "Accidentally deleted an important file at work. Spent the next hour trying to recover it, but it was gone for good. F."
+    },
+    {
+        "id": 10,
+        "title": "It's Dangerous to Go Alone",
+        "content": "Went hiking alone and got lost in the woods for a few hours. Found my way back eventually, but it was definitely an adventure."
+    },
+    {
+        "id": 11,
+        "title": "Moby Dick",
+        "content": "Sailor Ishmael\u2019s voyage on the whaler Pequod, which is commanded by the maniacal Captain Ahab. Ahab is obsessed with taking revenge on Moby Dick, a giant white sperm whale that bit off his leg, driving the ship into a fatal quest across the oceans.",
+        "author": "Herman Melville",
+        "date_posted": "2024-06-01"
+    }
+]
